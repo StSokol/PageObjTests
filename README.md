@@ -1,2 +1,2 @@
 # PageObjTests
-Examples for pageObj tests with Pytest
+Examples for PageObj tests with Pytest
